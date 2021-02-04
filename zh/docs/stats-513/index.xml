@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STATS 513 Regression and Data Analysis on 主页</title>
+    <link>/zh/docs/stats-513/</link>
+    <description>Recent content in STATS 513 Regression and Data Analysis on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 
+</copyright>
+    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/zh/docs/stats-513/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winter 2020</title>
+      <link>/zh/docs/stats-513/chapter-1/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/docs/stats-513/chapter-1/</guid>
+      <description>&lt;p&gt;Syllabus.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Winter 2019</title>
+      <link>/zh/docs/stats-513/chapter-2/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/docs/stats-513/chapter-2/</guid>
+      <description>&lt;p&gt;Syllabus.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
